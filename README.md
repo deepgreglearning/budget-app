@@ -1,8 +1,8 @@
-# 💰 Budget Master
+# Budget Master
 
 Budget Master is a comprehensive budget management application designed to help users track their income, expenses, and savings goals with ease. 
 
-## 🚀 Features
+## Features
 
 - **Expense Tracking**: Log every transaction with categories and dates.
 - **Income Management**: Track multiple sources of revenue.
@@ -10,7 +10,7 @@ Budget Master is a comprehensive budget management application designed to help 
 - **Visual Analytics**: Gain insights into your spending habits through intuitive dashboards.
 - **Savings Goals**: Set and track progress toward specific financial targets.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: [Insert Tech, e.g., React/Next.js]
 - **Backend**: [Insert Tech, e.g., Node.js/Python]
@@ -48,17 +48,17 @@ Budget Master is a comprehensive budget management application designed to help 
    npm run dev
    ```
 
-## 📈 Roadmap
+## boadmap
 
 - [ ] Implement User Authentication
 - [ ] Add Export to CSV/PDF functionality
 - [ ] Integration with Banking APIs
 - [ ] Mobile Application (iOS/Android)
 
-## 🤝 Contributing
+## l Contributing
 
 Contributions are welcome! Please read the `CONTRIBUTING.md` file for guidelines on how to submit pull requests.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
